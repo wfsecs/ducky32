@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: programming is easy...
 --> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ducky32&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducky32&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducky32&exclude_repo=github-readme-stats,ducky32.github.io)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ducky32&layout=compact)](https://github.com/ducky32/github-readme-stats)
