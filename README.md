@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-<!--
-**wfsecs/wfsecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
---> 
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wfsecFama&&show_icons=true&theme=dark
+![wfsecs's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wfsec&&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wfsecs&layout=compact&theme=dark)
 
 - 🌱 I’m currently learning more about Networking...
 - ⚡ Fun fact: programming is easy...
